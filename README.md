@@ -26,6 +26,7 @@ The user is asking for a laptop recommendation based on the brand and what the l
 User asking for a laptop recommendation based on their budget. The system goes further by recommending other products outside of this price range and the benefits that come with the more expensive versions.
 
 <br>
-<br>
+<be>
+
 ## Future Work
 As you can see from the products spreadsheet, I also scraped some image links for each product. The goal is to display an image next to each recommended product. The application can also be easily run as an API and integrated into already existing web applications.
